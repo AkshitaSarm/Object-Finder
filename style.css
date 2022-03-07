@@ -1,0 +1,17 @@
+#note{
+    color: black;
+    font-size:15px ;
+    font-weight: 800;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+body{
+    background-size: cover;
+}
+
