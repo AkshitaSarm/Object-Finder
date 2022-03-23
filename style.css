@@ -5,10 +5,11 @@
 }
 
 .heading{
-    font-size: 25px;
+    font-size: 20px;
     width: 100%;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
+    height: 70px;
 }
 
 body{
